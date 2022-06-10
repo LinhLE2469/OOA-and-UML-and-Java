@@ -1,0 +1,11 @@
+passengerId, gender, pclass, survived, age
+0,male,2,true,20.0
+0,female,1,true,21.0
+passengerId, gender, pclass, survived, age
+0,male,2,true,20.0
+passengerId, gender, pclass, survived, age
+0,female,1,true,21.0
+passengerId, gender, pclass, survived, age
+0,male,2,true,20.0
+passengerId, gender, pclass, survived, age
+0,female,1,true,21.0

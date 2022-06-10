@@ -1,0 +1,10 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(‰âÑ«ÿÿÿÿÿ8¢ä‚Š‰0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(»‡ÏØıÿÿÿÿ8Êä‚Š‰0
+H
+java:S1168i"+Return an empty collection instead of null.(¥¹ï8Úä‚Š‰0
+T
+java:S1128	"7Remove this unused import 'java.security.spec.ECField'.(“¢á¯8åä‚Š‰0
+H
+java:S1068",Remove this unused "filePath" private field.(÷ë¢P8åä‚Š‰0

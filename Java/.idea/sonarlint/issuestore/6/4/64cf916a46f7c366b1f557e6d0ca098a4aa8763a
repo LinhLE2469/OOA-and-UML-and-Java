@@ -1,0 +1,16 @@
+
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ö­˜£ÿÿÿÿÿ8şóß„0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(û¡ÕÁ8şóß„0
+N
+java:S1068",Remove this unused "quantity" private field.(­ŞĞòşÿÿÿÿ8ûàÖ³ÿ/
+O
+java:S1068	"-Remove this unused "unitPrice" private field.(ÇöÄÅøÿÿÿÿ8ûàÖ³ÿ/
+P
+java:S1068
+".Remove this unused "commission" private field.(ºĞ´‚üÿÿÿÿ8ûàÖ³ÿ/
+F
+java:S1068")Remove this unused "stock" private field.(İ³²ñ8ûàÖ³ÿ/
+G
+java:S1068"+Remove this unused "account" private field.(½Í®`8ûàÖ³ÿ/

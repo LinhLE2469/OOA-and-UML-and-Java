@@ -1,0 +1,22 @@
+
+g
+java:S1854,"ERemove this useless assignment to local variable "investmentAccount".(Î×•Æøÿÿÿÿ8êá‚Š‰0
+]
+java:S1854(";Remove this useless assignment to local variable "account".(˜óÊÓøÿÿÿÿ8ëá‚Š‰0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(åÀ¼¶þÿÿÿÿ8ëá‚Š‰0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Íå®¬üÿÿÿÿ8þá‚Š‰0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(½áÖ8þá‚Š‰0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¡¼¯8…â‚Š‰0
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Å‹®8‡â‚Š‰0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ñÖ­¾ûÿÿÿÿ8‹â‚Š‰0
+N
+java:S1481(",Remove this unused "account" local variable.(˜óÊÓøÿÿÿÿ8˜â‚Š‰0
+X
+java:S1481,"6Remove this unused "investmentAccount" local variable.(Î×•Æøÿÿÿÿ8§â‚Š‰0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ì€ðþùÿÿÿÿ8ªâ‚Š‰0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(à˜µ»ûÿÿÿÿ8°â‚Š‰0
+T	java:S1065"9Replace this use of System.out or System.err by a logger.(‡Ðƒ:8´â‚Š‰0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(³ÙŒŽ8¶â‚Š‰0
+e
+java:S1128"CRemove this unused import 'fr.epita.bankaccount.datamodel.Account'.( ãÍýüÿÿÿÿ8¶â‚Š‰0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öºýœ8¸â‚Š‰0

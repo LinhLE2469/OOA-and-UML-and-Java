@@ -1,0 +1,10 @@
+
+n
+java:S1854"LRemove this useless assignment to local variable "passengerCountBySurvived".(ß£çğúÿÿÿÿ8ıæ‚Š‰0
+˜
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8ıæ‚Š‰0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’ã¼ñ8ç‚Š‰0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉË„«8ç‚Š‰0
+_
+java:S1481"=Remove this unused "passengerCountBySurvived" local variable.(ß£çğúÿÿÿÿ8ç‚Š‰0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(§Ø€İÿÿÿÿÿ8’ç‚Š‰0
